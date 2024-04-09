@@ -14,7 +14,7 @@
 2. **Acessar o repositório:**
 
     ```bash
-    cd HealthFinance-API
+    cd python-technical-challenge
 
 3. **Construa a imagem Docker usando o Dockerfile fornecido:**
     ```bash
